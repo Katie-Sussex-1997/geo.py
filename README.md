@@ -1,2 +1,2 @@
 # geo.py
-To get the geo location of an IP adress
+This program will geolocate an IP address based on input from the user. I used the geody web service to geolocate the IP.
